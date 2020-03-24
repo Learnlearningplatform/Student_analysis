@@ -1,2 +1,17 @@
-# student-alc-result
-Some results founds from a given data set "student alcohol consuption" using a Python and library like  Pandas  and Numpy
+
+# Project Name
+This project is a Data Analysis of Students Results and Cosumption of alcohol by students.
+
+
+### Methods Used
+* Feature Engineering
+* Data Analysis
+* Data Visualization
+
+
+
+### Technologies 
+* Python
+
+
+
